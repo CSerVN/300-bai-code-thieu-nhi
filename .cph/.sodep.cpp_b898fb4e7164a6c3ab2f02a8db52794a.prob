@@ -1,1 +1,0 @@
-{"name":"Local: sodep","url":"d:\\LapTrinhC++\\CodeThieuNhi\\sodep.cpp","tests":[{"id":1739877407813,"input":"4 4\n1 2 3 4\n5 6 7 8","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\LapTrinhC++\\CodeThieuNhi\\sodep.cpp","group":"local","local":true}
